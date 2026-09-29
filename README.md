@@ -1,12 +1,14 @@
 # MIROSŁAW KOWALCZYK
 
-**Football Scout** 
+**Football Scout**
 
 📍 Poland  
 📧 m.kowalczyk350@yahoo.com  
 📞 +48 516 146 090  
 🔗 GitHub: [kowalczyk350/player-radar-profiles](https://github.com/kowalczyk350/player-radar-profiles)  
 🔗 LinkedIn: [linkedin.com/in/mirosław-kowalczyk-524b408a](https://linkedin.com/in/mirosław-kowalczyk-524b408a)
+
+**Available from October 2026**
 
 ---
 
@@ -20,8 +22,8 @@ My work focuses on translating football data (event data, scouting reports, and 
 
 ## EXPERIENCE
 
-### Scouting & Analysis Support | Jagiellonia Białystok (Scouting Environment)
-*2023 – 2025 / 2026 – present*
+### Football Scout | Jagiellonia Białystok
+*October 2023 – September 2026 | Poland, remote*
 
 - Player identification and evaluation across youth and lower leagues (U15–U19, III liga)
 - Scouting support for player recruitment processes and talent pipeline assessment
