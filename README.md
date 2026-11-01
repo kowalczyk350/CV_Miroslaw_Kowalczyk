@@ -1,69 +1,72 @@
 # MIROSŁAW KOWALCZYK
 
-**Football Scout**
+**Football Scout / Football Analyst**
 
-📍 Poland  
+📍 Polska  
 📧 m.kowalczyk350@yahoo.com  
 📞 +48 516 146 090  
 🔗 GitHub: [kowalczyk350/player-radar-profiles](https://github.com/kowalczyk350/player-radar-profiles)  
 🔗 LinkedIn: [linkedin.com/in/mirosław-kowalczyk-524b408a](https://linkedin.com/in/mirosław-kowalczyk-524b408a)
 
-**Available from October 2026**
+**Dostępny od zaraz**
 
 ---
 
-## PROFILE
+## Profil
 
-Football Scout specializing in player identification and performance profiling. I combine live match observation with data-driven analysis to support recruitment decisions at youth and semi-professional level.
+Scout piłkarski i analityk danych sportowych specjalizujący się w identyfikacji talentów, profilowaniu zawodników oraz analizie danych w futbolu. W swojej pracy łączę obserwację meczową z analizą ilościową, aby wspierać decyzje rekrutacyjne i oceniać potencjał zawodników na różnych poziomach rozgrywek.
 
-My work focuses on translating football data (event data, scouting reports, and visual analysis) into actionable player profiles and recruitment insights.
+Moje podejście skupia się na przekładaniu danych piłkarskich, raportów scoutingowych i analizy meczowej na konkretne profile zawodników oraz rekomendacje dotyczące rekrutacji i rozwoju.
 
 ---
 
-## EXPERIENCE
+## Doświadczenie
 
 ### Football Scout | Jagiellonia Białystok
-*October 2023 – September 2026 | Poland, remote*
+*Październik 2023 – wrzesień 2026 | Polska, zdalnie*
 
-- Player identification and evaluation across youth and lower leagues (U15–U19, III liga)
-- Scouting support for player recruitment processes and talent pipeline assessment
-- Creation of structured scouting reports and player profiles (6+ analytical reports)
-- Evaluation of long-term development potential of players (born 2009–2013)
-- Contribution to internal scouting workflow combining observation and data insights
+- Identyfikacja i ocena zawodników w grupach wiekowych U15–U19 oraz III lidze
+- Obserwacja i analiza zawodników seniorów oraz juniorów w kontekście oceny potencjału i przydatności do klubu
+- Przygotowywanie spójnych raportów scoutingowych, profili zawodników oraz rekomendacji rekrutacyjnych
+- Wsparcie procesu rekrutacji poprzez połączenie obserwacji meczowej, analizy danych i profilowania gracza
+- Ocena potencjału rozwojowego zawodników urodzonych w latach 2009–2013
+- Wkład w proces skautingu poprzez integrację obserwacji i analizy danych w celu lepszego rozpoznania talentów
 
-### Independent Football Analysis Projects
-*2023 – present*
+### Projekty analityczne z obszaru football analytics
+*2023 – obecnie*
 
-- Development of data-driven player profiling models using Python and Jupyter Notebook
-- Creation of visual scouting outputs (radar charts, percentile-based profiles, passing networks)
-- Analytical breakdowns of player performance using StatsBomb Open Data
-- Translating statistical outputs into football scouting recommendations
+- Tworzenie modeli profilowania zawodników z wykorzystaniem Pythona i Jupyter Notebook
+- Przygotowywanie wizualizacji scoutingowych: radar charts, profile percentylowe, sieci podań i porównania zawodników
+- Analiza danych z wykorzystaniem StatsBomb Open Data
+- Tłumaczenie wyników statystycznych na rekomendacje praktyczne dla opcji rekrutacyjnych i obserwacyjnych
 
 ---
 
-## SKILLS
+## Obszary kompetencji
 
-### Scouting & Analysis
-- Player profiling (qualitative + quantitative)
-- Talent identification
-- Match observation & reporting
-- Recruitment support analysis
+### Skauting i analiza zawodników
+- Profilowanie zawodników (jakościowe i ilościowe)
+- Identyfikacja talentów
+- Obserwacja meczu i raportowanie
+- Wsparcie procesu rekrutacji
+- Ocena potencjału rozwojowego
 
-### Data & Tools
+### Dane i narzędzia
 - Python (pandas, numpy, matplotlib)
 - Jupyter Notebook
-- SQL (basic)
+- SQL (podstawy)
 - StatsBomb Open Data
-- Wyscout (working knowledge)
+- Wyscout (znajomość praktyczna)
 
-### Visualization
-- Radar charts / percentile profiles
-- Passing networks
-- Player comparison models
+### Wizualizacja i analiza
+- Profile radarowe / percentylowe
+- Sieci podań
+- Porównanie zawodników
+- Analiza statystyczna i scoutingowa
 
 ---
 
-## CERTIFICATIONS
+## Certyfikaty
 
 - StatsBomb – Data Analysis Foundations
 - IPSO Level 2 – Scouting & Talent Identification
@@ -71,17 +74,24 @@ My work focuses on translating football data (event data, scouting reports, and 
 
 ---
 
-## PROJECTS (SELECTED)
+## Projekty
 
-- **Player radar profiling system** (GitHub project)
-- **Scouting report framework** for youth player evaluation
-- **Passing network analysis** for match structure interpretation
-- **Data-driven player comparison models** (position-based profiling)
+- **Player radar profiling system** (projekt GitHub)
+- **Scouting report framework** do oceny graczy młodzieżowych
+- **Passing network analysis** w celu interpretacji struktury gry
+- **Modele porównawcze zawodników** oparte na profilowaniu pozycyjnym
 
 ---
 
-## FOCUS
+## Obszary zainteresowań
 
-- Player recruitment & talent identification
-- Scouting analytics for youth and senior level
-- Integration of football observation with data analysis
+- Rekrutacja i identyfikacja talentów
+- Analiza skautingowa na poziomie młodzieżowym i seniorskim
+- Integracja obserwacji piłkarskiej z analizą danych
+- Rozwój zawodników i profilowanie ich potencjału
+
+---
+
+## Informacja o dostępności
+
+Poszukuję nowych możliwości zawodowych w klubie, organizacji sportowej lub środowisku związanym z football analytics, scoutingiem i analizą danych sportowych. Chętnie rozwijam się w obszarze, gdzie dane wspierają decyzje sportowe i rekrutacyjne.
