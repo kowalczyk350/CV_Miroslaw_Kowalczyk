@@ -23,7 +23,7 @@ Moje podejście skupia się na przekładaniu danych piłkarskich, raportów scou
 ## Doświadczenie
 
 ### Football Scout | Jagiellonia Białystok
-*Październik 2023 – wrzesień 2026 | Polska, zdalnie*
+*Październik 2023 – wrzesień 2026 | Polska*
 
 - Identyfikacja i ocena zawodników w grupach wiekowych U15–U19 oraz III lidze
 - Obserwacja i analiza zawodników seniorów oraz juniorów w kontekście oceny potencjału i przydatności do klubu
