@@ -10,7 +10,99 @@
 
 **Dostępny od zaraz**
 
----
+---MIROSŁAW KOWALCZYK
+Football Scout / Football Analyst
+
+📍 Poland
+📧 m.kowalczyk350@yahoo.com
+📞 +48 516 146 090
+🔗 GitHub: github.com/kowalczyk350
+🔗 LinkedIn: linkedin.com/in/mirosław-kowalczyk-524b408a
+
+Available immediately
+
+Profile
+Football scout and sports data analyst specialising in talent identification, player profiling and data analysis in football. I combine match observation with quantitative analysis to support recruitment decisions and assess player potential across different levels of competition.
+
+My approach focuses on translating football data, scouting reports and match analysis into concrete player profiles and recommendations for recruitment and development.
+
+Experience
+Football Scout | Jagiellonia Białystok
+October 2023 – September 2026 | Poland
+
+Observation of central senior leagues and Scandinavian leagues
+
+Observation and analysis of senior and youth players in the context of potential and squad suitability assessment
+
+Preparation of consistent scouting reports, player profiles and recruitment recommendations
+
+Support of the recruitment process by combining match observation, data analysis and player profiling
+
+Contribution to the scouting process through the integration of observation and data analysis to improve talent identification
+
+Football Analytics Projects
+2023 – present
+
+Building player profiling models with Python and Jupyter Notebook
+
+Preparing scouting visualisations: radar charts, percentile profiles, passing networks and player comparisons
+
+Data analysis using StatsBomb Open Data
+
+Translating statistical outputs into practical recommendations for recruitment and observation
+
+Skills
+Scouting & Player Analysis
+Player profiling (qualitative and quantitative)
+
+Talent identification
+
+Match observation and reporting
+
+Recruitment process support
+
+Potential assessment
+
+Data & Tools
+Python (pandas, numpy, matplotlib)
+
+Jupyter Notebook
+
+SQL (basics)
+
+StatsBomb Open Data
+
+Wyscout (practical knowledge)
+
+Visualisation & Analysis
+Radar / percentile profiles
+
+Passing networks
+
+Player comparisons
+
+Statistical and scouting analysis
+
+Certificates
+StatsBomb – Data Analysis Foundations
+
+IPSO Level 2 – Scouting & Talent Identification
+
+PFSA – Scouting & Performance Analysis Courses
+
+Projects
+Player radar profiling system (GitHub project)
+
+Scouting report framework for assessing youth players
+
+Passing network analysis for interpreting team playing structure
+
+Player comparison models based on positional profiling
+
+Availability
+I am looking for new professional opportunities in a club, sports organisation or football analytics environment. I am available to work remotely and on a freelance basis, and I am open to relocation.
+
+
 
 ## Profil
 
