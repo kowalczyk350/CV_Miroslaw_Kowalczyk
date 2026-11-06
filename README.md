@@ -25,11 +25,11 @@ Moje podejście skupia się na przekładaniu danych piłkarskich, raportów scou
 ### Football Scout | Jagiellonia Białystok
 *Październik 2023 – wrzesień 2026 | Polska*
 
-- Identyfikacja i ocena zawodników w grupach wiekowych U15–U19 oraz III lidze
+-Obserwacja lig centralnych seniorów ,obserwacja lig skandynawskich
 - Obserwacja i analiza zawodników seniorów oraz juniorów w kontekście oceny potencjału i przydatności do klubu
 - Przygotowywanie spójnych raportów scoutingowych, profili zawodników oraz rekomendacji rekrutacyjnych
 - Wsparcie procesu rekrutacji poprzez połączenie obserwacji meczowej, analizy danych i profilowania gracza
-- Ocena potencjału rozwojowego zawodników urodzonych w latach 2009–2013
+
 - Wkład w proces skautingu poprzez integrację obserwacji i analizy danych w celu lepszego rozpoznania talentów
 
 ### Projekty analityczne z obszaru football analytics
