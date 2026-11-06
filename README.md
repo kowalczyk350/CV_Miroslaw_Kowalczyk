@@ -25,7 +25,7 @@ Moje podejście skupia się na przekładaniu danych piłkarskich, raportów scou
 ### Football Scout | Jagiellonia Białystok
 *Październik 2023 – wrzesień 2026 | Polska*
 
--Obserwacja lig centralnych seniorów ,obserwacja lig skandynawskich
+- Obserwacja lig centralnych seniorów ,obserwacja lig skandynawskich
 - Obserwacja i analiza zawodników seniorów oraz juniorów w kontekście oceny potencjału i przydatności do klubu
 - Przygotowywanie spójnych raportów scoutingowych, profili zawodników oraz rekomendacji rekrutacyjnych
 - Wsparcie procesu rekrutacji poprzez połączenie obserwacji meczowej, analizy danych i profilowania gracza
